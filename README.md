@@ -49,4 +49,4 @@ Je planning doe je met behulp van issues en het scrumboard. Iedere maandag kijk 
 * [Seeed wiki](https://wiki.seeedstudio.com/Grove/) - informatie over evt. Grove modules
 * [Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) Opmaak van je verslag
 * [Schema's tekenen](https://draw.io) Voor bijv. strokendiagram
-* [Planning](/issues)
+* [Planning](../../issues)
